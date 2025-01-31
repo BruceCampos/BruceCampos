@@ -5,10 +5,13 @@
 ```javascript
 const bruce = {
     nome: "Bruce Campos",
-    idade: 33,
-    cidade: "Novo Horizonte, SP",
-    stack: ["JavaScript", "ReactJS", "Django", "NodeJS", "Python", "Pandas", "Numpy", "Matplotlib",
-            "Seaborn", "Scikit-learn", "SQL", "MySQL", "MongoDB", "Git", "GitHub"],
+    ensino: {
+                curso: "Ciencia de dados",
+                universidade: "UNIVESP",
+                status: "Cursando",
+            }
+    cidade: "Catanduva, SP",
+    stack: ["Python", "JavaScript", "TypeScript", "SQL", "Pandas", "PowerBI", "React"],
     hobbies: ["Games", "Assistir séries", "Ouvir música", "Programar"]
 }
 ```
