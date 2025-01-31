@@ -9,7 +9,7 @@ const bruce = {
                 curso: "Ciencia de dados",
                 universidade: "UNIVESP",
                 status: "Cursando",
-            }
+            },
     cidade: "Catanduva, SP",
     stack: ["Python", "JavaScript", "TypeScript", "SQL", "Pandas", "PowerBI", "React"],
     hobbies: ["Games", "Assistir séries", "Ouvir música", "Programar"]
