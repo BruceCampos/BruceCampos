@@ -16,6 +16,8 @@ const bruce = {
 }
 ```
 
+![Snake animation](https://raw.githubusercontent.com/BruceCampos/BruceCampos/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ## Conecte-se comigo
