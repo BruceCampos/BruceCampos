@@ -12,7 +12,7 @@ const bruce = {
             },
     cidade: "Catanduva, SP",
     stack: ["Python", "JavaScript", "TypeScript", "SQL", "Pandas", "PowerBI", "React"],
-    hobbies: ["Games", "Assistir séries", "Ouvir música", "Fazer Programas "]
+    hobbies: ["Games", "Assistir séries", "Ouvir música", "Programar "]
 }
 ```
 
