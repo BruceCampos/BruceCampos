@@ -52,7 +52,7 @@ Aqui estão algumas das minhas estatísticas e contribuições no GitHub:
 
 **GitHub Stats**:
 
-<img width="440px" src="https://github-readme-stats.vercel.app/api?username=BruceCampos&show_icons=true&theme=onedark">
+[![Bruce Campos GitHub stats](https://github-readme-stats.vercel.app/api?username=brucecampos&show_icons=true&theme=dracula)](https://github.com/brucecampos/github-readme-stats)
 
 **Principais Linguagens**:
 
