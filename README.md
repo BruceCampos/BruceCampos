@@ -48,7 +48,7 @@ Aqui estão algumas das ferramentas e tecnologias com as quais tenho experiênci
 ## 📈 GitHub Stats
 Aqui estão algumas das minhas estatísticas e contribuições no GitHub:
 
-<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=BruceCampos&theme=github">
+<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=brucecampos&theme=github">
 
 **GitHub Stats**:
 
@@ -56,7 +56,7 @@ Aqui estão algumas das minhas estatísticas e contribuições no GitHub:
 
 **Principais Linguagens**:
 
-<img width="440px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=BruceCampos&layout=compact&theme=onedark">
+<img width="440px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=brucecampos&layout=compact&theme=onedark">
 
 ## 📬 Vamos nos conectar!
 - [**LinkedIn**](https://www.linkedin.com/in/brucecamposnh/)
